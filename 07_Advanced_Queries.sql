@@ -1,5 +1,5 @@
 /*
-08_Advance_Queries.sql
+07_Advance_Queries.sql
 
 
 Description:
