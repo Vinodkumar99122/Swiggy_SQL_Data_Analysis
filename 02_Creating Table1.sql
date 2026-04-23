@@ -1,5 +1,5 @@
 /*-----------------------------------------------------------------------
-	Script Name  : 02_Create_Table.
+	Script Name  : 02_Create_Table.sql
 	Table Name   : Swiggy_Data
 	Purpose      : To store Swiggy restaurant dataset for analysis
 	Description  : Contains details such as restaurant name,
