@@ -1,5 +1,5 @@
 /*------------------------------------------------------------------
-	Script Name : 01_Create_Database.sql
+	Script Name : 01_Create_Database
 	Purpose     : Creates the Swiggy_Project database
 	Description : This script creates the database that will be used
 				  to store Swiggy restaurant data for analysis
